@@ -76,6 +76,10 @@ img, video, audio {
   max-width: 100%;  /* fluid but 100% of parent */
 }
 /* LAYOUT */
+.section {
+  margin-bottom: 20px;
+  padding: 20px;
+}
 .wrapper {
   width: 1080px;
   margin: 0 auto;
