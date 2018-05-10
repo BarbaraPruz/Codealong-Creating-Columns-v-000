@@ -77,8 +77,8 @@ img, video, audio {
 }
 /* LAYOUT */
 .section {
-  margin-bottom: 20px;
   padding: 20px;
+  margin-bottom: 20px;
 }
 .wrapper {
   width: 1080px;
