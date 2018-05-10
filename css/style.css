@@ -78,6 +78,15 @@ figcaption {
   background: #eee;
 }
 
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
+}
+
 .col-1 {
   float: left;
   width: 32%;
