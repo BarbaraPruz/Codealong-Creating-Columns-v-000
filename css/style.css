@@ -76,6 +76,10 @@ img, video, audio {
   max-width: 100%;  /* fluid but 100% of parent */
 }
 /* LAYOUT */
+* {
+  box-sizing: border-box;
+}
+
 .section {
   padding: 20px;
   margin-bottom: 20px;
